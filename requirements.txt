@@ -1,0 +1,9 @@
+numpy>=1.20.0
+matplotlib>=3.3.0
+seaborn>=0.11.0
+jupyter>=1.0.0
+tqdm>=4.0.0
+cupy-cuda11x; platform_system!="Windows"
+# Note: CuPy on Windows can be tricky.
+# Usually: pip install cupy-cuda11x (or 12x depending on CUDA version)
+# For Colab, it's pre-installed or easily installable.
