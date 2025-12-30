@@ -1,6 +1,6 @@
 # Performance Analysis of Parallel N-Body Simulation Using CPU and GPU Acceleration
 
-**Submitted under:** CDAC CINE & IIT Guwahati Campus  
+**Submitted under:** CDAC CINE, IIT Guwahati Campus  
 **Contributors:** Partha Pratim Das, Manash Das
 
 ---
